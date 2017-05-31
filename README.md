@@ -7,10 +7,13 @@ Just a Dead-Simple Local LAMP/LEMP Stack for Vagrant. **Making Vagrant EASY AS E
 
 Scotch Box is a pre-configured Vagrant Box with a full array of features to get you up and running with Vagrant in no time.
 
+Apache version: https://github.com/scotch-io/scotch-box-pro
+
+
 
 ## License Required?
 
-This is a paid version of the original Scotch Box. [Go Pro Now!](https://box.scotch.io/pro)
+This is a paid version of the original Scotch Box. Go Pro Now! to get access to documentation and new tutorials!
 
 
 ## Pro Features
