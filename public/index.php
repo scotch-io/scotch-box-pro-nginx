@@ -73,7 +73,6 @@
 main {
     overflow: hidden;
 }
-
         .btn, .btn:hover, .btn:focus, .btn:active {
             box-shadow: 0 !important;
             border-radius: 2px !important;
@@ -270,7 +269,7 @@ main {
 
     <main>
 
-      <nav class="navbar navbar-default navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -353,6 +352,10 @@ main {
                         </ul>
                     </li>
 
+                    <li>
+                        <a href="https://wpdistillery.org" target="_blank" role="button" aria-expanded="false"><i class="fa fa-wordpress"></i> WPDistillery</a>
+                    </li>
+
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                          <li>
@@ -361,7 +364,7 @@ main {
     "><img src="https://scotch.io/img/icons/gold/favicon-96x96.png" style="max-width: 25px;position: absolute;left: -15px;top: 11px;"> Scotch.io</a>
                     </li>
 
-                    <li class="active"><a href="/pro">Go Pro</a></li>
+                    <li class="active"><a href="https://box.scotch.io/pro">Go Pro</a></li>
                 </ul>
             </div>
         </div>
@@ -372,11 +375,11 @@ main {
                     <div class="row">
                         <div class="col-md-10 col-md-offset-1">
                             <h1>
-                                😎
+                                🤩 🚀 😎 🐕
                                 <br>
-                                Welcome to Scotch Box Pro
+                                Welcome to Scotch Box Pro (NGINX)
                             </h1>
-                            <p>Pro (NGINX) Version 1.0 ❤️</p>
+                            <p>Pro Version 1.5 ❤️</p>
                         </div>
                     </div>
                 </div>
@@ -418,27 +421,27 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>OS</strong></td>
-                                    <td>Ubuntu 16.04 LTS (Xenial Xerus)</td>
+                                    <td>Ubuntu 17.01 (Artful Aardvark)</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Web Server</strong></td>
-                                    <td>NGINX</td>
+                                    <td>NGINX 1.13.8</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
                                     <td><strong>PHP</strong></td>
-                                    <td>7.0.15</td>
+                                    <td>7.2.2</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Python</strong></td>
-                                    <td>2.7</td>
+                                    <td>2.7.4</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Node.js</strong></td>
-                                    <td>6.10.3 (via NVM!)</td>
+                                    <td>8.9.4 (via NVM!)</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -450,12 +453,12 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>Ruby</strong></td>
-                                    <td>2.4 (via RVM!)</td>
+                                    <td>2.5 (via RVM!)</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Vim</strong></td>
-                                    <td>7.4</td>
+                                    <td>8.0</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -465,12 +468,12 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>Imagemagick</strong></td>
-                                    <td>6.8.9</td>
+                                    <td>6.9</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Curl</strong></td>
-                                    <td>7.47</td>
+                                    <td>7.55</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -516,7 +519,7 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>PHP</strong></td>
-                                    <td>7.0.15</td>
+                                    <td>7.2.2</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -759,7 +762,7 @@ main {
                             <table class="table table-responsive table-striped table-hover">
                                 <tr>
                                     <th colspan="3">
-                                        <h3>PostgreSQL 9.5.6</h3>
+                                        <h3>PostgreSQL 9.6.7</h3>
                                     </th>
                                 </tr>
                                 <tr>
@@ -810,7 +813,7 @@ main {
                             <table class="table table-responsive table-striped table-hover">
                                 <tr>
                                     <th colspan="3">
-                                        <h3>MongoDB 2.6.10</h3>
+                                        <h3>MongoDB 3.2.19</h3>
                                     </th>
                                 </tr>
                                 <tr>
@@ -994,7 +997,7 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>Node.js</strong></td>
-                                    <td>6.10.3</td>
+                                    <td>8.9.43</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -1004,12 +1007,12 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>NPM</strong></td>
-                                    <td>3.10.10</td>
+                                    <td>5.6.0</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Yarn</strong></td>
-                                    <td>0.24.5</td>
+                                    <td>1.5.1</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -1024,7 +1027,7 @@ main {
                                     'browser-sync',
                                     'browserify',
                                     'pm2',
-                                    'webpack'
+                                    'webpack',
                                 );
                                 foreach ($packages as $package) :
                                 ?>
